@@ -1,0 +1,38 @@
+body {
+color:rgba(161, 231, 255, 0.822);
+background:rgb(3, 135, 139);
+margin: 0px;
+font-family: "Chakra Petch", sans-serif;
+margin-bottom: 100px;
+} 
+
+header {
+    border-bottom: solid 2px rgb(250, 148, 199);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(204, 250, 190);
+}
+
+chamada{
+    background: rgba(255, 137, 216, 0.808);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+chamada-texto {
+margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ctegoria-videos{
+    display: flex;
+    overflow-x: auto;
